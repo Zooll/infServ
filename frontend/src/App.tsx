@@ -61,8 +61,8 @@ function App() {
             const data = new FormData();
             data.append('image', base64String);
             data.append('prompt', message);
-            const model_name = "instruct-pix2pix"
-            fetch(`http://87.120.210.2:8080/predictions/${model_name}`, {
+            //const model_name = "instruct-pix2pix"
+            fetch(`http://87.120.210.2:5000/predict`, {
               method: 'POST',
               body: data
             })

@@ -1,0 +1,6 @@
+2023-05-04 16:07:10,821 WARNING werkzeug MainThread :  * Debugger is active!
+2023-05-04 16:07:10,826 INFO werkzeug MainThread :  * Debugger PIN: 222-837-792
+2023-05-04 16:12:12,941 INFO werkzeug MainThread :  * Detected change in '/home/fsuser/infServ/flask_server/app.py', reloading
+2023-05-04 16:12:13,225 WARNING werkzeug MainThread :  * Debugger is active!
+2023-05-04 16:12:13,231 INFO werkzeug MainThread :  * Debugger PIN: 222-837-792
+2023-05-04 16:12:29,281 INFO werkzeug MainThread :  * Detected change in '/home/fsuser/infServ/flask_server/app.py', reloading
